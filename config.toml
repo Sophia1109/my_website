@@ -119,7 +119,7 @@ disqusShortname = ""
       title = "CV"
       subtitle = "Latest version of my resume"
       image = "pic05.jpg"
-      url = "static/cv_img"
+      url = "blogs/cv_img"
 
     [[params.tiles.showcase]]
       title = "Hobbies"
