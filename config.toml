@@ -107,7 +107,7 @@ disqusShortname = ""
       title = "Projects in R and Python"
       subtitle = "Omega"
       image = "pic09.jpg"
-      url = "blogs/magna"
+      url = "blogs/omega_gap"
 
     [[params.tiles.showcase]]
       title = "My favourite Spotify songs"
@@ -119,13 +119,13 @@ disqusShortname = ""
       title = "CV"
       subtitle = "Latest version of my resume"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "static/cv_img"
 
     [[params.tiles.showcase]]
       title = "Hobbies"
       subtitle = "Baking and crocheting"
       image = "pic07.jpeg"
-      url = "blogs/hobby"
+      url = "blogs/hobby_bake_crochet"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
