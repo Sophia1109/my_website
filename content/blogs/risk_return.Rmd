@@ -3,7 +3,7 @@ title: "Omega Pay Gap Analysis"
 date: "2022-09-20"
 description: Omega Pay Gap Analysis
 draft: no
-image: 
+image: ''
 keywords: ''
 slug: omega_gap
 categories:
