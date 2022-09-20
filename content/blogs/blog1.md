@@ -1,14 +1,15 @@
 ---
-title: "Ipsum"
+title: "Education"
 description: ""
-slug: "ipsum"
-image: pic10.jpg
-keywords: ""
+slug: "education"
+image: pic11.jpeg
+keywords: ("school", "undergrad")
 categories: 
     - ""
     - ""
-date: 2017-10-31T21:28:43-05:00
+date: 2022-09-11T21:28:43-05:00
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Before joining LBS, I studied at the lyceum #82 in Nizhny Novgorod with specialisation in Maths and Physics. After finishing the schools and passing "A-levels", I studied at Higher School of Economics in a double-degree programme with University of London, specialising in Economics and Finance. 4 years of hard work allowed me to graduate with a First Class Honours diploma.
+
